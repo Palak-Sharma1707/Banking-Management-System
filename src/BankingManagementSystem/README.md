@@ -13,7 +13,7 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository**: 
    ```shell
-   git clone https://github.com/YourUsername/YourBankingSystemRepo.git
+   git clone https://github.com/YourUsername/Your-Banking-Management-System-Repo.git
 2. **Compile the Java Code**:
 
    ```shell
